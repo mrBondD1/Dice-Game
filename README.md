@@ -2,7 +2,9 @@
 
 - This game can be played by 2 players. 
 
-- You can roll the dice, hold your current score. 
+- You can roll the dice, hold your current score.
+
+- If you don't hold your current score and you hit a '1' then your current score will be not saved.
 
 - You can restart the game. 
 
