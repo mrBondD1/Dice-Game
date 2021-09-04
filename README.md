@@ -8,6 +8,8 @@
 
 - The player who scores 50 first, wins!
 
+#
+
 
 ### 🛠 Developed using HTML, CSS & JavaScript.
 
